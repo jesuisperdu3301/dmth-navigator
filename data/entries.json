@@ -1,0 +1,5186 @@
+﻿[
+  {
+    "id": "orofos-0-grafeio",
+    "name": "Εισαγγελέας Ανηλίκων - Τμήμα Ανηλίκων",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": null,
+    "roomNumber": null,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311152"
+    ],
+    "emails": [
+      "anilika.eisproth@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ανήλικοι",
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-120",
+    "name": "Επίκουροι Εισαγγελείς Οικονομικού Εγκλήματος",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "120",
+    "roomNumber": 120,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311120"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-120a",
+    "name": "Επίκουροι Εισαγγελείς Οικονομικού Εγκλήματος",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "120Α",
+    "roomNumber": 120,
+    "roomSuffix": "Α",
+    "floor": 1,
+    "phones": [
+      "2313311119"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-121",
+    "name": "Εισαγγελείς Πρωτοδικών",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "121",
+    "roomNumber": 121,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311121",
+      "2310541606"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-122",
+    "name": "Εισαγγελείς Πρωτοδικών",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "122",
+    "roomNumber": 122,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311122",
+      "2310528879"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-123",
+    "name": "Αντεισαγγελείς Πρωτοδικών",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "123",
+    "roomNumber": 123,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311123",
+      "2310541604"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-124",
+    "name": "Αντεισαγγελείς Πρωτοδικών",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "124",
+    "roomNumber": 124,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311124"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-125",
+    "name": "Προϊσταμένη Διεύθυνσης Γραμματείας",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "125",
+    "roomNumber": 125,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311125"
+    ],
+    "emails": [
+      "dioikitiko.eisproth@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-125",
+    "name": "Αντεισαγγελείς Πρωτοδικών",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "125Α",
+    "roomNumber": 125,
+    "roomSuffix": "Α",
+    "floor": 1,
+    "phones": [
+      "2310541601"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-126",
+    "name": "Τμήμα Διοικητικό",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "126",
+    "roomNumber": 126,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311126"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-127",
+    "name": "Διευθύνων την Εισαγγελία Πρωτοδικών - Εισαγγελέας Πρωτοδικών",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "127",
+    "roomNumber": 127,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2310311126",
+      "2313311127"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-128",
+    "name": "Τμήμα Διοικητικό",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "128",
+    "roomNumber": 128,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311128"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-129",
+    "name": "Εισαγγελέας Γνωμοδότησης",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "129",
+    "roomNumber": 129,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311129",
+      "2310520096"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-130",
+    "name": "Εισαγγελέας Υπηρεσίας",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "130",
+    "roomNumber": 130,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311130",
+      "2310520138"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-130",
+    "name": "Αυτόφωρα - Συνοδείες",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "130Α",
+    "roomNumber": 130,
+    "roomSuffix": "Α",
+    "floor": 1,
+    "phones": [
+      "2313311177"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-131",
+    "name": "Εισαγγελέας Ποινικής Δίωξής",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "131",
+    "roomNumber": 131,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311131",
+      "2310520235"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-132",
+    "name": "Κατάθεση Μηνύσεων",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "132",
+    "roomNumber": 132,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311132"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-133",
+    "name": "Τμήμα Μηνύσεων",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "133",
+    "roomNumber": 133,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311133"
+    ],
+    "emails": [
+      "miniseis.eisproth@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-134",
+    "name": "Γραμματείς Εισαγγελέα Ποινικής Δίωξης",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "134",
+    "roomNumber": 134,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311134"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-135-t-b",
+    "name": "Tμήμα Bουλευμάτων",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "135",
+    "roomNumber": 135,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311135",
+      "2313311151"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-136",
+    "name": "Τμήμα Βουλευμάτων - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "136",
+    "roomNumber": 136,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311136"
+    ],
+    "emails": [
+      "vouleymata.eisproth@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Βουλεύματα",
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-137",
+    "name": "Κλήτευση Α' και Β' Τριμελούς - Εφέσεις",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "137",
+    "roomNumber": 137,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311137"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-138-pr-trimelous",
+    "name": "Τμήμα Προσδιορισμού Τριμελούς - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "138",
+    "roomNumber": 138,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311138"
+    ],
+    "emails": [
+      "pr.trimelous.eisproth@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-139",
+    "name": "Πινάκιο Α' και Β' Τριμελούς",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "139",
+    "roomNumber": 139,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311139"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-140",
+    "name": "Τμήμα Διεθνών Σχέσεων, Μηχανοργάνωσης, Διαδικτύου, Δικαστικής Συνδρομής και Ευρωπαϊκών Εντολών Έρευνας - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "140",
+    "roomNumber": 140,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311140",
+      "2310510183"
+    ],
+    "emails": [
+      "eisproth@otenet.gr",
+      "judco.ppoth@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Πληροφορική"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-141",
+    "name": "Πληροφόρηση Μηνύσεων",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "141",
+    "roomNumber": 141,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311141"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Πληροφορική"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-142",
+    "name": "Γραμματείς Μηνύσεων",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "142",
+    "roomNumber": 142,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311142"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-143",
+    "name": "Συνοδείες - Διαγραφές",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "143",
+    "roomNumber": 143,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311143"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-144",
+    "name": "Εκτέλεση Αποφάσεων Τριμελούς",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "144",
+    "roomNumber": 144,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311144"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εκτέλεση"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-144",
+    "name": "Γραφείο Επιμελητών Δικαστηρίων",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "144Α",
+    "roomNumber": 144,
+    "roomSuffix": "Α",
+    "floor": 1,
+    "phones": [
+      "2313311472"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-144",
+    "name": "Γραφείο Επιμελητών Δικαστηρίων",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "144Β",
+    "roomNumber": 144,
+    "roomSuffix": "Β",
+    "floor": 1,
+    "phones": [
+      "2313311472"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-145",
+    "name": "Τμήμα Εκτέλεσης Ποινών - Προϊστάμενος - Εκτέλεση Αποφάσεων Μονομελούς",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "145",
+    "roomNumber": 145,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311145"
+    ],
+    "emails": [
+      "fygopoinoi.eisproth@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εκτέλεση",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-146",
+    "name": "Πιστοποιητικά Φυγόποινων - Λιπομαρτυρίες",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "146",
+    "roomNumber": 146,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311146"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-147",
+    "name": "Κοινωφελής Εργασία - Παροχή Προθεσμίας",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "147",
+    "roomNumber": 147,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311147"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-148",
+    "name": "Τμήμα Κατηγορητηρίων - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "148",
+    "roomNumber": 148,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311148"
+    ],
+    "emails": [
+      "kat.trimelous.eisproth@n3.syzefxis.gov.gr",
+      "kat.monomelous.eisproth@n3.syzefxls.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-149",
+    "name": "Σύνταξη Κατηγορητηρίων",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "149",
+    "roomNumber": 149,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311149"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-150",
+    "name": "Σύνταξη Κατηγορητηρίων",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "150",
+    "roomNumber": 150,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311150"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-152",
+    "name": "Γραφείο Επιμελητών Δικαστηρίων",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "152",
+    "roomNumber": 152,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311381"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-153",
+    "name": "Κλήτευση Μονομελούς",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "153",
+    "roomNumber": 153,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311153"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-153",
+    "name": "Κλήτευση Μονομελούς",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "154",
+    "roomNumber": 154,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311154"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-155",
+    "name": "Πινάκια - Μελέτη Δικογραφιών Γ' – Δ' Μονομελούς και Δικαστηρίου Ανηλίκων",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "155",
+    "roomNumber": 155,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311155"
+    ],
+    "emails": [],
+    "tags": [
+      "Ανήλικοι",
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-156",
+    "name": "Τμήμα Προσδιορισμού Μονομελούς - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "156",
+    "roomNumber": 156,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311156"
+    ],
+    "emails": [
+      "pr.monomelous.eisproth@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-157",
+    "name": "Πινάκιο Αυτοφώρων Μονομελούς και Ε' Μονομελούς",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "157",
+    "roomNumber": 157,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311151"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-158",
+    "name": "Τμήμα Μηνύσεων - Καταχώρηση Αδικημάτων",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "158",
+    "roomNumber": 158,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311158"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-159",
+    "name": "Έκδοση Πιστοποιητικών Ποινικού Μητρώου",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "159",
+    "roomNumber": 159,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311159"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Ποινικό",
+      "Ποινικό Μητρώο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-160",
+    "name": "Τμήμα Ποινικού Μητρώου - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "160",
+    "roomNumber": 160,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311160"
+    ],
+    "emails": [
+      "pm.thessalonikis@ncris.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Ποινικό",
+      "Ποινικό Μητρώο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-161",
+    "name": "Έκδοση Πιστοποιητικών Ποινικού Μητρώου",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "161",
+    "roomNumber": 161,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311161"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Ποινικό",
+      "Ποινικό Μητρώο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-175",
+    "name": "Πινάκια - Μελέτη Δικογραφιών Β' Μονομελούς",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Πρωτοδικών",
+    "roomRaw": "175",
+    "roomNumber": 175,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311175"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-172",
+    "name": "Πολιτικό Τμήμα (Σχετικά Δικηγόρων)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "172",
+    "roomNumber": 172,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311172"
+    ],
+    "emails": [
+      "efeteio.politiko@thess-courts.gr"
+    ],
+    "tags": [
+      "Εφετείο",
+      "Πολιτικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-3-grafeio-319",
+    "name": "Επιθεωρητής Θ' Δικαστικής Περιφέρειας",
+    "entityType": "Πρόσωπο",
+    "organization": "Εφετείο",
+    "roomRaw": "319",
+    "roomNumber": 319,
+    "roomSuffix": null,
+    "floor": 3,
+    "phones": [
+      "2313311364"
+    ],
+    "emails": [],
+    "tags": [
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-3-grafeio-319",
+    "name": "Γραφείο Επιθεώρησης",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "319Α",
+    "roomNumber": 319,
+    "roomSuffix": "Α",
+    "floor": 3,
+    "phones": [
+      "2313311364"
+    ],
+    "emails": [
+      "efeteio.epitheorisi@thess-courts.gr"
+    ],
+    "tags": [
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-3-grafeio-320",
+    "name": "Πρόεδρος Εφετών",
+    "entityType": "Πρόσωπο",
+    "organization": "Εφετείο",
+    "roomRaw": "320",
+    "roomNumber": 320,
+    "roomSuffix": null,
+    "floor": 3,
+    "phones": [
+      "2313311320"
+    ],
+    "emails": [],
+    "tags": [
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-3-grafeio-321",
+    "name": "Γραφείο Προέδρου Τριμελούς Συμβουλίου Διεύθυνσης",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "321",
+    "roomNumber": 321,
+    "roomSuffix": null,
+    "floor": 3,
+    "phones": [
+      "2313311321"
+    ],
+    "emails": [
+      "efeteio.grammateia@thess-courts.gr"
+    ],
+    "tags": [
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-3-grafeio-322",
+    "name": "Εφέτες",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "322",
+    "roomNumber": 322,
+    "roomSuffix": null,
+    "floor": 3,
+    "phones": [
+      "2313311322"
+    ],
+    "emails": [],
+    "tags": [
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-3-grafeio-327-242-2",
+    "name": "Πολιτικό Τμήμα (Προκατάθεση Προτάσεων και Δηλώσεων αρ. 242 παρ. 2 ΚΠολΔ)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "327",
+    "roomNumber": 327,
+    "roomSuffix": null,
+    "floor": 3,
+    "phones": [
+      "2313311327"
+    ],
+    "emails": [
+      "efeteio.politiko@thess-courts.gr"
+    ],
+    "tags": [
+      "Εφετείο",
+      "Πολιτικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-3-grafeio-328",
+    "name": "Πολιτικό Τμήμα (Κατάθεση - Προσδιορισμός Δικογράφων, Δημοσίευση Πολιτικών Αποφάσεων)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "328",
+    "roomNumber": 328,
+    "roomSuffix": null,
+    "floor": 3,
+    "phones": [
+      "2313311328"
+    ],
+    "emails": [
+      "efeteio.politiko@thess-courts.gr"
+    ],
+    "tags": [
+      "Εφετείο",
+      "Πολιτικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-3-grafeio-329",
+    "name": "Πολιτικό Τμήμα (Πολιτικές Αποφάσεις - Απόγραφα τρέχοντος έτους)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "329",
+    "roomNumber": 329,
+    "roomSuffix": null,
+    "floor": 3,
+    "phones": [
+      "2313311329"
+    ],
+    "emails": [
+      "efeteio.katharografi@thess-courts.gr"
+    ],
+    "tags": [
+      "Εφετείο",
+      "Πολιτικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-3-grafeio-332",
+    "name": "Πολιτικό Τμήμα (Γραμματείς Εδρών)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "332",
+    "roomNumber": 332,
+    "roomSuffix": null,
+    "floor": 3,
+    "phones": [
+      "2313311332",
+      "2313311355"
+    ],
+    "emails": [
+      "efeteio.politiko@thess-courts.gr"
+    ],
+    "tags": [
+      "Εφετείο",
+      "Πολιτικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-3-grafeio-333",
+    "name": "Τμήμα Βουλευμάτων",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "333",
+    "roomNumber": 333,
+    "roomSuffix": null,
+    "floor": 3,
+    "phones": [
+      "2313311333"
+    ],
+    "emails": [
+      "efeteio.voulefmata@thess-courts.gr"
+    ],
+    "tags": [
+      "Βουλεύματα",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-3-grafeio-334",
+    "name": "Τμήμα Προμηθειών - Ειδικό Γραφείο",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "334",
+    "roomNumber": 334,
+    "roomSuffix": null,
+    "floor": 3,
+    "phones": [
+      "2313311334"
+    ],
+    "emails": [
+      "efeteio.promithies@thess-courts.gr"
+    ],
+    "tags": [
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-202",
+    "name": "Γραφείο Μισθοδοσίας",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "202",
+    "roomNumber": 202,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311202"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-3-grafeio-334a",
+    "name": "Ειδικό Ενιαίο Γραφείο Πληροφορικής-Μισθοδοσίας όλων των Δικαστικών Υπηρεσιών ΔΜΘ Α) Υποτμήμα Πληροφορικής",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "334Α",
+    "roomNumber": 334,
+    "roomSuffix": "Α",
+    "floor": 3,
+    "phones": [
+      "2313311385"
+    ],
+    "emails": [
+      "efeteio.egp@thess-courts.gr"
+    ],
+    "tags": [
+      "Εφετείο",
+      "Πληροφορική"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-3-grafeio-335",
+    "name": "Ειδικό Ενιαίο Γραφείο Πληροφορικής-Μισθοδοσίας όλων των Δικαστικών Υπηρεσιών ΔΜΘ Β)Υποτμήμα Πληροφορικής",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "335",
+    "roomNumber": 335,
+    "roomSuffix": null,
+    "floor": 3,
+    "phones": [
+      "2313311335"
+    ],
+    "emails": [
+      "efeteio.misth@thess-courts.gr"
+    ],
+    "tags": [
+      "Εφετείο",
+      "Πληροφορική"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-3-grafeio-358",
+    "name": "Επιμελητές Δικαστηρίων (Γενικό Πρωτόκολλο Γραμματείας)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "358",
+    "roomNumber": 358,
+    "roomSuffix": null,
+    "floor": 3,
+    "phones": [
+      "2313311358"
+    ],
+    "emails": [],
+    "tags": [
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-3-grafeio-359",
+    "name": "Διοικητικό Τμήμα",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "359",
+    "roomNumber": 359,
+    "roomSuffix": null,
+    "floor": 3,
+    "phones": [
+      "2313311359"
+    ],
+    "emails": [
+      "efeteio.grammateia@thess-courts.gr"
+    ],
+    "tags": [
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-3-grafeio-360",
+    "name": "Προϊσταμένη Διεύθυνσης Γραμματείας",
+    "entityType": "Πρόσωπο",
+    "organization": "Εφετείο",
+    "roomRaw": "360",
+    "roomNumber": 360,
+    "roomSuffix": null,
+    "floor": 3,
+    "phones": [
+      "2313311360"
+    ],
+    "emails": [
+      "efeteio.grammateia@thess-courts.gr"
+    ],
+    "tags": [
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-4-grafeio-437",
+    "name": "Τμήμα Ενδίκων Μέσων - Εκκαθάρισης ποινικών υποθέσεων",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "437",
+    "roomNumber": 437,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311437"
+    ],
+    "emails": [
+      "efeteio.ekkatharisi@thess-courts.gr"
+    ],
+    "tags": [
+      "Εφετείο",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-4-grafeio-439",
+    "name": "Ποινικό Τμήμα (Γραμματείς Εδρών)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "439",
+    "roomNumber": 439,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311439"
+    ],
+    "emails": [],
+    "tags": [
+      "Εφετείο",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-4-grafeio-440",
+    "name": "Ποινικό Τμήμα (Γραμματείς Εδρών)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "440",
+    "roomNumber": 440,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311440"
+    ],
+    "emails": [],
+    "tags": [
+      "Εφετείο",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-4-grafeio-441",
+    "name": "Ποινικό Τμήμα (Γραμματείς Εδρών)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "441",
+    "roomNumber": 441,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311441"
+    ],
+    "emails": [],
+    "tags": [
+      "Εφετείο",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-4-grafeio-443",
+    "name": "Ποινικό Τμήμα (Γραμματείς Εδρών)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "443",
+    "roomNumber": 443,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311443"
+    ],
+    "emails": [],
+    "tags": [
+      "Εφετείο",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-4-grafeio-445",
+    "name": "Ποινικό Τμήμα (Γραμματείς Εδρών)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "445",
+    "roomNumber": 445,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311445"
+    ],
+    "emails": [],
+    "tags": [
+      "Εφετείο",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-4-grafeio-446",
+    "name": "Ποινικό Τμήμα (Γραμματείς Εδρών)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "446",
+    "roomNumber": 446,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311446"
+    ],
+    "emails": [],
+    "tags": [
+      "Εφετείο",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-4-grafeio-447",
+    "name": "Ποινικό Τμήμα (Γραμματείς Εδρών)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "447",
+    "roomNumber": 447,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311447"
+    ],
+    "emails": [],
+    "tags": [
+      "Εφετείο",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-4-grafeio-448",
+    "name": "Ποινικό Τμήμα (Γραμματείς Εδρών)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "448",
+    "roomNumber": 448,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311448"
+    ],
+    "emails": [],
+    "tags": [
+      "Εφετείο",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-4-grafeio-449",
+    "name": "Ποινικό Τμήμα (Γραμματείς Εδρών)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "449",
+    "roomNumber": 449,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311449"
+    ],
+    "emails": [],
+    "tags": [
+      "Εφετείο",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-4-grafeio-451",
+    "name": "Ποινικό Τμήμα (Γραμματείς Εδρών)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "451",
+    "roomNumber": 451,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311451"
+    ],
+    "emails": [],
+    "tags": [
+      "Εφετείο",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-4-grafeio-452",
+    "name": "Ποινικό Τμήμα (Γραμματείς Εδρών)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "452",
+    "roomNumber": 452,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311452"
+    ],
+    "emails": [],
+    "tags": [
+      "Εφετείο",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-4-grafeio-453",
+    "name": "Ποινικό Τμήμα (Γραφείο Προϊσταμένου)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "453",
+    "roomNumber": 453,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311453"
+    ],
+    "emails": [
+      "efeteio.poiniko@thess-courts.gr"
+    ],
+    "tags": [
+      "Εφετείο",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-4-grafeio-454",
+    "name": "Ποινικό Τμήμα (Γραμματείς Εδρών)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "454",
+    "roomNumber": 454,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311454"
+    ],
+    "emails": [],
+    "tags": [
+      "Εφετείο",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-4-grafeio-455",
+    "name": "Ποινικό Τμήμα (Γραμματείς Εδρών)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "455",
+    "roomNumber": 455,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311455"
+    ],
+    "emails": [],
+    "tags": [
+      "Εφετείο",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-4-grafeio-457",
+    "name": "Ποινικό Τμήμα (Δημοσίευση Ποινικών Αποφάσεων)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "457",
+    "roomNumber": 457,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311457"
+    ],
+    "emails": [
+      "efeteio.poiniko@thess-courts.gr"
+    ],
+    "tags": [
+      "Εφετείο",
+      "Ποινικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-4-grafeio-459",
+    "name": "Τμήμα Αρχείου (Αντίγραφα πολιτικών-ποινικών αποφάσεων, απόγραφα παρελθόντων ετών κ.ά.)",
+    "entityType": "Γραφείο",
+    "organization": "Εφετείο",
+    "roomRaw": "459",
+    "roomNumber": 459,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311459"
+    ],
+    "emails": [
+      "efeteio.arxeio@thess-courts.gr"
+    ],
+    "tags": [
+      "Εφετείο",
+      "Ποινικό",
+      "Πολιτικό"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-16",
+    "name": "Τμήμα Γενικού Αρχείου Πολιτικών Αποφάσεων - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": null,
+    "roomNumber": 0,
+    "roomSuffix": null,
+    "floor": -1,
+    "phones": [
+      "2313311341",
+      "2310552942"
+    ],
+    "emails": [
+      "polarxeio.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Πολιτικό",
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio",
+    "name": "Τμήμα Γενικού Αρχείου Πολιτικών Αποφάσεων - Απόγραφα",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": null,
+    "roomNumber": 0,
+    "roomSuffix": null,
+    "floor": -1,
+    "phones": [
+      "2313311357"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio",
+    "name": "Τμήμα Γενικού Αρχείου Πολιτικών Αποφάσεων - Εξυπηρέτηση",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": null,
+    "roomNumber": 0,
+    "roomSuffix": null,
+    "floor": -1,
+    "phones": [
+      "2313311458"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio",
+    "name": "Τμήμα Γενικού Αρχείου Πολιτικών Αποφάσεων - Εταιρικά-Καταστατικά",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": null,
+    "roomNumber": 0,
+    "roomSuffix": null,
+    "floor": -1,
+    "phones": [
+      "2313311270"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio",
+    "name": "Τμήμα Γενικού Αρχείου Πολιτικών Αποφάσεων - Σχετικά",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": null,
+    "roomNumber": 0,
+    "roomSuffix": null,
+    "floor": -1,
+    "phones": [
+      "2313311467"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-0-grafeio-17",
+    "name": "Δημοσίευση Διαθηκών",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "44, 46",
+    "roomNumber": 44,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311484",
+      "2313311486"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-0-grafeio-18",
+    "name": "Αποποιήσεις",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "18",
+    "roomNumber": 18,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311345"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-0-grafeio-19",
+    "name": "Πιστοποιητικά Διαθηκών",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "19, 20",
+    "roomNumber": 19,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311343",
+      "2313311344"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-0-grafeio-23",
+    "name": "Γραφείο Αλληλογραφίας - Επιμελητές",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "23",
+    "roomNumber": 23,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311393"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-0-grafeio-27",
+    "name": "Γραφείο Αρχείου Ποινικών Αποφάσεων Πρώην Πταισματοδικείου - Δικαστικές Συνδρομές - Μεταφράσεις",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "27",
+    "roomNumber": 27,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311396"
+    ],
+    "emails": [],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-0-grafeio-47",
+    "name": "Τμήμα Γενικού Αρχείου Πολιτικών Αποφάσεων πρώην Ειρηνοδικείων",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "47",
+    "roomNumber": 47,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311487"
+    ],
+    "emails": [],
+    "tags": [
+      "Πολιτικό",
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-0-grafeio-51",
+    "name": "Τμήμα Γραμματέων Ειδικής Διαδικασίας Μονομελούς",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "51",
+    "roomNumber": 51,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311181"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-0-grafeio-56",
+    "name": "Τμήμα Εκουσίας Ν. 4055/2012 - Δηλώσεις Τρίτων",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "56",
+    "roomNumber": 56,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311186"
+    ],
+    "emails": [
+      "ekousia.eirthess@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-0-grafeio-57",
+    "name": "Τμήμα Προσημειώσεων και Συναινετικών Εξαλείψεων",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "57, 59",
+    "roomNumber": 57,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311189",
+      "2313311400"
+    ],
+    "emails": [
+      "asfalistika.eirthess@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-0-grafeio-60",
+    "name": "Τμήμα Δικαίου Αστικής Αφερεγγυότητας",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "60, 63, 68",
+    "roomNumber": 60,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311187",
+      "2313311383",
+      "2313311388"
+    ],
+    "emails": [
+      "3869.eirthess@gmail.com"
+    ],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-0-grafeio-69-7",
+    "name": "Τμήμα Μικροδιαφορών - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "69",
+    "roomNumber": 69,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311389"
+    ],
+    "emails": [
+      "mikrodiafores.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-0-grafeio-70",
+    "name": "Τμήμα Πιστοποιητικών-Διαθηκών-Αποποιήσεων-Αποδοχών - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "70",
+    "roomNumber": 70,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311273",
+      "2310311280"
+    ],
+    "emails": [
+      "pistopoiitika.eirthess@gmail.com"
+    ],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-105",
+    "name": "Τμήμα Εκκαθάρισης & Ενδίκων Μέσων κατά Ποινικών Αποφάσεων - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "105",
+    "roomNumber": 105,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311105",
+      "2310527734"
+    ],
+    "emails": [
+      "ekkatharissi.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Τμήματα Ποινικής Διαδικασίας"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-107",
+    "name": "Τμήμα Εκκαθάρισης & Ενδίκων Μέσων κατά Ποινικών Αποφάσεων",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "107",
+    "roomNumber": 107,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311107",
+      "2310544485"
+    ],
+    "emails": [],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Τμήματα Ποινικής Διαδικασίας"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-106",
+    "name": "Τμήμα Σύνταξης Δελτίου Ποινικού Μητρώου",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "106",
+    "roomNumber": 106,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311106"
+    ],
+    "emails": [],
+    "tags": [
+      "Ποινικό",
+      "Ποινικό Μητρώο",
+      "Πρωτοδικείο",
+      "Τμήματα Ποινικής Διαδικασίας"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-110",
+    "name": "Γραφείο Δημοσίευσης Ποινικών Αποφάσεων",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "110",
+    "roomNumber": 110,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311110"
+    ],
+    "emails": [],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Τμήματα Ποινικής Διαδικασίας"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-117",
+    "name": "Τμήμα Τριμελούς Πλημμελειοδικείου-ΜΟΔ - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "117",
+    "roomNumber": 117,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311117",
+      "2310518398"
+    ],
+    "emails": [
+      "mod.protodikeiothes@n3.syzefxis.gov.gr",
+      "poinikotrimeles.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Τμήματα Ποινικής Διαδικασίας"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-117",
+    "name": "Τμήμα Μονομελούς Πλημμελειοδικείου-Αγορανομικού Δικαστηρίου-Δικαστηρίου Ανηλίκων - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "117",
+    "roomNumber": 117,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311117",
+      "2310518398"
+    ],
+    "emails": [
+      "poiniko.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Τμήματα Ποινικής Διαδικασίας"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-118",
+    "name": "Γραμματέας Μ.Ο.Δ.",
+    "entityType": "Πρόσωπο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "118",
+    "roomNumber": 118,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311118"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-119",
+    "name": "Βιβλιοθήκη",
+    "entityType": "Υπηρεσία",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "119",
+    "roomNumber": 119,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311119",
+      "2310521563"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-120",
+    "name": "Εισαγγελείς Πρωτοδικών",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "120",
+    "roomNumber": 120,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311120",
+      "2310541607"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-1-grafeio-127",
+    "name": "Διευθύνων την Εισαγγελία Πρωτοδικών - Εισαγγελέας Πρωτοδικών",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "127",
+    "roomNumber": 127,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311127"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-202-15",
+    "name": "Τμήμα Δημοσίευσης Πολιτικών Αποφάσεων - Διαχείρισης Δικογράφων Πρώην Ειρηνοδικείων",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "202",
+    "roomNumber": 202,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311291",
+      "2313311202"
+    ],
+    "emails": [
+      "dimosiefsi.eirthess@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Πολιτικό",
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-206",
+    "name": "Τμήμα Κατάθεσης Δικογράφων - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "206",
+    "roomNumber": 206,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311206",
+      "2313311222"
+    ],
+    "emails": [
+      "katathesi.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-207",
+    "name": "Τμήμα Κατάθεσης Δικογράφων",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "207",
+    "roomNumber": 207,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311207"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-212",
+    "name": "Τμήμα Δημοσίευσης & Καθαρογραφής Πολιτικών Αποφάσεων",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "212",
+    "roomNumber": 212,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311212"
+    ],
+    "emails": [
+      "katharografi.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Πολιτικό",
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-209",
+    "name": "Τμήμα Δημοσίευσης & Καθαρογραφής Πολιτικών Αποφάσεων",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "209",
+    "roomNumber": 209,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311209"
+    ],
+    "emails": [],
+    "tags": [
+      "Πολιτικό",
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-208",
+    "name": "Τμήμα Δημοσίευσης & Καθαρογραφής Πολιτικών Αποφάσεων - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "208",
+    "roomNumber": 208,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311208"
+    ],
+    "emails": [],
+    "tags": [
+      "Πολιτικό",
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-210",
+    "name": "Τμήμα Ασφαλιστικών Μέτρων-Διαταγών Πληρωμής - Νομική Βοήθεια",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "210",
+    "roomNumber": 210,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311210"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-213",
+    "name": "Πρόεδρος Υπηρεσίας",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "213Α",
+    "roomNumber": 213,
+    "roomSuffix": "Α",
+    "floor": 2,
+    "phones": [
+      "2313311221"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-214-11",
+    "name": "Τμήμα Ασφαλιστικών Μέτρων-Διαταγών Πληρωμής",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "214",
+    "roomNumber": 214,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311214"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-214",
+    "name": "Διαταγές Πληρωμής",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "214",
+    "roomNumber": 214,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311214"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-216",
+    "name": "Τμήμα Ασφαλιστικών Μέτρων-Διαταγών Πληρωμής - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "216",
+    "roomNumber": 216,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311216"
+    ],
+    "emails": [
+      "asfalistika.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-219",
+    "name": "Τμήμα Γενικού Αρχείου Ποινικών Αποφάσεων - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "219",
+    "roomNumber": 219,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311219",
+      "2310555930"
+    ],
+    "emails": [
+      "poinarxeio.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Τμήματα Ποινικής Διαδικασίας"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-220-4",
+    "name": "Τμήμα Λογιστικού, Διαχείρισης Υλικού και Επιχορηγήσεων - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "220",
+    "roomNumber": 220,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311220",
+      "2310515960"
+    ],
+    "emails": [
+      "logistirio.protodikeiothes@gmail.com"
+    ],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-225-26",
+    "name": "Τμήμα Βουλευμάτων & Γραμματέων Ανακριτικών Γραφείων - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "225",
+    "roomNumber": 225,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311292",
+      "2313311227"
+    ],
+    "emails": [
+      "bouleumata.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Βουλεύματα",
+      "Πρωτοδικείο",
+      "Τμήματα Ποινικής Διαδικασίας"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-227-26",
+    "name": "Τμήμα Βουλευμάτων & Γραμματέων Ανακριτικών Γραφείων",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "227",
+    "roomNumber": 227,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311227"
+    ],
+    "emails": [],
+    "tags": [
+      "Ποινικό",
+      "Βουλεύματα",
+      "Πρωτοδικείο",
+      "Τμήματα Ποινικής Διαδικασίας"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-228",
+    "name": "Γραφείο Διάσκεψης Ανακριτών",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "228",
+    "roomNumber": 228,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311228"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-unknown-grafeio-240-ανακριτης-ν-4022-2011",
+    "name": "Ανακριτής Ν. 4022/2011",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "240",
+    "roomNumber": 240,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311240"
+    ],
+    "emails": [
+      "anak_diafthoras.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Ανακριτικά Τμήματα"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-217-ανακριτης-ν-4022-2011",
+    "name": "Ανακριτής Ν. 4022/2011",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "217",
+    "roomNumber": 217,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311217"
+    ],
+    "emails": [
+      "anak_diafthoras-2.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Ανακριτικά Τμήματα"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-165-1ο-τακτικο-ανακριτικο",
+    "name": "1ο Τακτικό Ανακριτικό",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "165",
+    "roomNumber": 165,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311165",
+      "2310513132"
+    ],
+    "emails": [
+      "1_takt_anak.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Ανακριτικά Τμήματα"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-164-2ο-τακτικο-ανακριτικο",
+    "name": "2ο Τακτικό Ανακριτικό",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "164",
+    "roomNumber": 164,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311164",
+      "2310533301"
+    ],
+    "emails": [
+      "2_takt_anak.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Ανακριτικά Τμήματα"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-101-3ο-τακτικο-ανακριτικο",
+    "name": "3ο Τακτικό Ανακριτικό",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "101",
+    "roomNumber": 101,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311101",
+      "2310552941"
+    ],
+    "emails": [
+      "3_takt_anak.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Ανακριτικά Τμήματα"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-162-4ο-τακτικο-ανακριτικο",
+    "name": "4ο Τακτικό Ανακριτικό",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "162",
+    "roomNumber": 162,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311162",
+      "2310513197"
+    ],
+    "emails": [
+      "4_takt_anak.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Ανακριτικά Τμήματα"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-166-5ο-τακτικο-ανακριτικο",
+    "name": "5ο Τακτικό Ανακριτικό",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "166",
+    "roomNumber": 166,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311176",
+      "2310523033"
+    ],
+    "emails": [
+      "5_takt_anak.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Ανακριτικά Τμήματα"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-165a-6ο-τακτικο-ανακριτικο",
+    "name": "6ο Τακτικό Ανακριτικό",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "165A",
+    "roomNumber": 165,
+    "roomSuffix": "A",
+    "floor": 1,
+    "phones": [
+      "2313311291",
+      "2310515000"
+    ],
+    "emails": [
+      "6_takt_anak.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Ανακριτικά Τμήματα"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-102-7ο-τακτικο-ανακριτικο",
+    "name": "7ο Τακτικό Ανακριτικό",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "102",
+    "roomNumber": 102,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311102"
+    ],
+    "emails": [
+      "7_takt_anak.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Ανακριτικά Τμήματα"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-276-1ο-ειδικο-ανακριτικο",
+    "name": "1ο Ειδικό Ανακριτικό",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "276",
+    "roomNumber": 276,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311276"
+    ],
+    "emails": [
+      "1_eid_anak.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Ανακριτικά Τμήματα"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-277-2ο-ειδικο-ανακριτικο",
+    "name": "2ο Ειδικό Ανακριτικό",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "277",
+    "roomNumber": 277,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311277"
+    ],
+    "emails": [
+      "2_eid_anak.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Ανακριτικά Τμήματα"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-278-3ο-ειδικο-ανακριτικο",
+    "name": "3ο Ειδικό Ανακριτικό",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "278",
+    "roomNumber": 278,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311278"
+    ],
+    "emails": [
+      "3_eid_anak.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Ανακριτικά Τμήματα"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-163-4ο-ειδικο-ανακριτικο",
+    "name": "4ο Ειδικό Ανακριτικό",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "163",
+    "roomNumber": 163,
+    "roomSuffix": null,
+    "floor": 1,
+    "phones": [
+      "2313311163",
+      "2310513307"
+    ],
+    "emails": [
+      "4_eid_anak.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Ανακριτικά Τμήματα"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-162α-5ο-ειδικο-ανακριτικο",
+    "name": "5ο Ειδικό Ανακριτικό",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "162Α",
+    "roomNumber": 162,
+    "roomSuffix": "Α",
+    "floor": 1,
+    "phones": [
+      "2313311183",
+      "2310519086"
+    ],
+    "emails": [
+      "5_eid_anak.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Ανακριτικά Τμήματα"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-15-τμημα-γραμματεων-προανακριτικων-γραφειων-προ-στ-μενος",
+    "name": "Τμήμα Γραμματέων Προανακριτικών Γραφείων - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "15",
+    "roomNumber": 15,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311495"
+    ],
+    "emails": [
+      "proanathes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Προανακριτικά"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-15-τμημα-γραμματεων-προανακριτικων-γραφειων-διακ-νηση-δικογραφι-ν",
+    "name": "Τμήμα Γραμματέων Προανακριτικών Γραφείων - Διακίνηση Δικογραφιών",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "15",
+    "roomNumber": 15,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311390"
+    ],
+    "emails": [
+      "proanathes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Προανακριτικά"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-7-α-προανακριτικ-τμ-μα",
+    "name": "Α' Προανακριτικό Τμήμα",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "7",
+    "roomNumber": 7,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311197"
+    ],
+    "emails": [
+      "a.proanathes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Προανακριτικά"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-9-β-προανακριτικ-τμ-μα",
+    "name": "Β' Προανακριτικό Τμήμα",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "9",
+    "roomNumber": 9,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311199"
+    ],
+    "emails": [
+      "b.proanathes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Προανακριτικά"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-22-γ-προανακριτικ-τμ-μα",
+    "name": "Γ' Προανακριτικό Τμήμα",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "22",
+    "roomNumber": 22,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311392"
+    ],
+    "emails": [
+      "c.proanathes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Προανακριτικά"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-8-ε-προανακριτικ-τμ-μα",
+    "name": "Ε' Προανακριτικό Τμήμα",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "8",
+    "roomNumber": 8,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311198"
+    ],
+    "emails": [
+      "e.proanathes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Προανακριτικά"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-12-ζ-προανακριτικ-τμ-μα",
+    "name": "Ζ' Προανακριτικό Τμήμα",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "12",
+    "roomNumber": 12,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311492"
+    ],
+    "emails": [
+      "z.proanathes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Προανακριτικά"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-13-η-προανακριτικ-τμ-μα",
+    "name": "Η' Προανακριτικό Τμήμα",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "13",
+    "roomNumber": 13,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311493"
+    ],
+    "emails": [
+      "h.proanathes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Προανακριτικά"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-14-θ-προανακριτικ-τμ-μα",
+    "name": "Θ' Προανακριτικό Τμήμα",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "14",
+    "roomNumber": 14,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311494"
+    ],
+    "emails": [
+      "th.proanathes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Προανακριτικά"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-6-ι-προανακριτικ-τμ-μα",
+    "name": "Ι' Προανακριτικό Τμήμα",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "6",
+    "roomNumber": 6,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311196"
+    ],
+    "emails": [
+      "i.proanathes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Προανακριτικά"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-21-ια-προανακριτικ-τμ-μα",
+    "name": "ΙΑ' Προανακριτικό Τμήμα",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "21",
+    "roomNumber": 21,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311391"
+    ],
+    "emails": [
+      "ia.proanathes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Προανακριτικά"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-11-ιβ-προανακριτικ-τμ-μα",
+    "name": "ΙΒ' Προανακριτικό Τμήμα",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "11",
+    "roomNumber": 11,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311491"
+    ],
+    "emails": [
+      "ib.proanathes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Προανακριτικά"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-35-ιδ-προανακριτικ-τμ-μα",
+    "name": "ΙΔ' Προανακριτικό Τμήμα",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "35",
+    "roomNumber": 35,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311339"
+    ],
+    "emails": [
+      "id.proanathes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Προανακριτικά"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-10-ιστ-προανακριτικ-τμ-μα-γραφε-ο-αρχε-ου-ποινικ-ν-αποφ-σεων-πρ-ην-πταισματοδικε-ου-δικαστικ-ς",
+    "name": "ΙΣΤ' Προανακριτικό Τμήμα",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "10",
+    "roomNumber": 10,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311490"
+    ],
+    "emails": [
+      "ist.proanathes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Προανακριτικά"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-26-συνδρομ-ς-μεταφρ-σεις",
+    "name": "Γραφείο Αρχείου Ποινικών Αποφάσεων πρώην Πταισματοδικείου - Δικαστικές Συνδρομές - Μεταφράσεις",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "26",
+    "roomNumber": 26,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311396"
+    ],
+    "emails": [
+      "metafraseisprotthes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Υποστήριξη",
+      "Αρχείο"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-unknown-grafeio-23-γραφε-ο-αλληλογραφ-ας-επιμελητ-ς",
+    "name": "Γραφείο Αλληλογραφίας - Επιμελητές",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "23",
+    "roomNumber": 23,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311393"
+    ],
+    "emails": [],
+    "tags": [
+      "Ποινικό",
+      "Πρωτοδικείο",
+      "Υποστήριξη"
+    ],
+    "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "orofos-2-grafeio-233-1",
+    "name": "Τμήμα Γραμματείας Συμβουλίου Διεύθυνσης",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "233",
+    "roomNumber": 233,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311245",
+      "2313311233",
+      "2313311234"
+    ],
+    "emails": [
+      "tsd@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-233",
+    "name": "Πρόεδρος Τριμελούς Συμβουλίου Διεύθυνσης Πρωτοδικείου",
+    "entityType": "Πρόσωπο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "233",
+    "roomNumber": 233,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311233",
+      "2310529626"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-233",
+    "name": "Γραφείο Μελών Τριμελούς Συμβουλίου",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "233Α",
+    "roomNumber": 233,
+    "roomSuffix": "Α",
+    "floor": 2,
+    "phones": [
+      "2313311293"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-235",
+    "name": "Τμήμα Διοικητικού",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "235, 240",
+    "roomNumber": 235,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311235",
+      "2313311241",
+      "2313311240"
+    ],
+    "emails": [
+      "grammateia.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-236-5",
+    "name": "Τμήμα Επιμελητών Δικαστηρίων - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "236",
+    "roomNumber": 236,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311236"
+    ],
+    "emails": [
+      "epimelhtes.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-238-5",
+    "name": "Τμήμα Επιμελητών Δικαστηρίων",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "238",
+    "roomNumber": 238,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311238"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-237",
+    "name": "Προϊστάμενος Διεύθυνσης Γραμματείας",
+    "entityType": "Πρόσωπο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "237",
+    "roomNumber": 237,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311237"
+    ],
+    "emails": [
+      "diefthinsigram.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-238",
+    "name": "Αίθουσα Συσκέψεων",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "238",
+    "roomNumber": 238,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311238"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-247-3",
+    "name": "Τμήμα Μηχανοργάνωσης και Πληροφορικής",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "247",
+    "roomNumber": 247,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "23133112247",
+      "2310527727"
+    ],
+    "emails": [
+      "helpdesk@thess-courts.gr"
+    ],
+    "tags": [
+      "Πληροφορική",
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-247-3",
+    "name": "Τμήμα Μηχανοργάνωσης και Πληροφορικής",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "249",
+    "roomNumber": 249,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "23133112249",
+      "2310553273"
+    ],
+    "emails": [],
+    "tags": [
+      "Πληροφορική",
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-247-3",
+    "name": "Τμήμα Μηχανοργάνωσης και Πληροφορικής",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "55",
+    "roomNumber": 55,
+    "roomSuffix": null,
+    "floor": 0,
+    "phones": [
+      "2313311185"
+    ],
+    "emails": [],
+    "tags": [
+      "Πληροφορική",
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-253-8",
+    "name": "Τμήμα Γραμματέων Έδρας Πολυμελούς / Μονομελούς Πολιτικής Διαδικασίας - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "253",
+    "roomNumber": 253,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311253",
+      "2310519625"
+    ],
+    "emails": [
+      "poledres.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Πολιτικό",
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-252-9",
+    "name": "Τμήμα Γραμματέων Έδρας Πολυμελούς Πολιτικής Διαδικασίας",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "252",
+    "roomNumber": 252,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311252"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-251-9",
+    "name": "Τμήμα Γραμματέων Έδρας Πολυμελούς Πολιτικής Διαδικασίας - Προκατάθεση Πολυμελούς",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "251",
+    "roomNumber": 251,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311251"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-254-9",
+    "name": "Τμήμα Γραμματέων Έδρας Πολυμελούς Πολιτικής Διαδικασίας",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "254",
+    "roomNumber": 254,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311248"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-255-9",
+    "name": "Τμήμα Γραμματέων Έδρας Μονομελούς Πολιτικής Διαδικασίας",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "255",
+    "roomNumber": 255,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311255"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-256-9",
+    "name": "Τμήμα Γραμματέων Έδρας Μονομελούς Πολιτικής Διαδικασίας - Προκατάθεση Μονομελούς",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "256",
+    "roomNumber": 256,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311256"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-258-9",
+    "name": "Τμήμα Γραμματέων Έδρας Μονομελούς Πολιτικής Διαδικασίας - Προκατάθεση Μονομελούς (Νέος ΚΠολΔ)",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "258",
+    "roomNumber": 258,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311258"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-257-9",
+    "name": "Τμήμα Γραμματέων Έδρας Μονομελούς Πολιτικής Διαδικασίας",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "257",
+    "roomNumber": 257,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311257"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-259-9",
+    "name": "Τμήμα Γραμματέων Έδρας Μονομελούς Πολιτικής Διαδικασίας",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "259",
+    "roomNumber": 259,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311259"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-261-9",
+    "name": "Τμήμα Γραμματέων Έδρας Μονομελούς Πολιτικής Διαδικασίας",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "261",
+    "roomNumber": 261,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311261"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-263-9",
+    "name": "Τμήμα Γραμματέων Έδρας Μονομελούς Πολιτικής Διαδικασίας",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "263",
+    "roomNumber": 263,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311263"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-264-9",
+    "name": "Τμήμα Γραμματέων Έδρας Μονομελούς Πολιτικής Διαδικασίας",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "264",
+    "roomNumber": 264,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311264"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-265-9",
+    "name": "Τμήμα Γραμματέων Έδρας Μονομελούς Πολιτικής Διαδικασίας",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "265",
+    "roomNumber": 265,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311265"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-205-20",
+    "name": "Τμήμα Δημοσίευσης - Ενδίκων Μέσων Πολιτικών Αποφάσεων",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "205",
+    "roomNumber": 205,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311205"
+    ],
+    "emails": [
+      "endika.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-268-20",
+    "name": "Τμήμα Πτωχεύσεων - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "268",
+    "roomNumber": 268,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311268",
+      "2310518909"
+    ],
+    "emails": [
+      "ptwxeyseis.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Πρωτοδικείο",
+      "Πτωχεύσεις"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-269",
+    "name": "Τμήμα Πτωχεύσεων - Πιστοποιητικά",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "269",
+    "roomNumber": 269,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311269"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο",
+      "Πτωχεύσεις"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-271-1-1-2013",
+    "name": "Τμήμα Πιστοποιητικών-Διαθηκών-Σωματείων-Εταιρικών",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "271",
+    "roomNumber": 271,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311271",
+      "2310519013"
+    ],
+    "emails": [
+      "pistop.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-272",
+    "name": "Σωματεία - Σφραγίδα Χάγης",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "272",
+    "roomNumber": 272,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311272",
+      "2313311273"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-273-18",
+    "name": "Τμήμα Πιστοποιητικών-Διαθηκών-Σωματείων-Εταιρικών - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "273",
+    "roomNumber": 273,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311273"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "orofos-2-grafeio-274-1-1-2013",
+    "name": "Τμήμα Πιστοποιητικών-Διαθηκών-Σωματείων-Εταιρικών",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "274",
+    "roomNumber": 274,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311290"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-413-amalia-kazampaka",
+    "name": "Εισαγγελέας Εφετών - Αμαλία Καζαμπάκα",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "413",
+    "roomNumber": 413,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311413"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-413-g-eorgios-sattantzis",
+    "name": "Εισαγγελέας Εφετών - Γεώργιος Σαπαντζής",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "413",
+    "roomNumber": 413,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311413"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-413-eirini-chrysogianni",
+    "name": "Εισαγγελέας Εφετών - Ειρήνη Χρυσογιάννη",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "413",
+    "roomNumber": 413,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311413"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-413-eyaggelos-mademlis",
+    "name": "Εισαγγελέας Εφετών - Ευάγγελος Μαδεμλής",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "413",
+    "roomNumber": 413,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311413"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-414-despoina-sidiropoyloy",
+    "name": "Εισαγγελέας Εφετών - Δέσποινα Σιδηροπούλου",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "414",
+    "roomNumber": 414,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311414"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-414-nikolopoyloy-nikolitsa",
+    "name": "Εισαγγελέας Εφετών - Νικολοπούλου Νικολίτσα",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "414",
+    "roomNumber": 414,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311414"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-414-paschalis-papaoikonomoy",
+    "name": "Εισαγγελέας Εφετών - Πασχάλης Παπαοικονόμου",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "414",
+    "roomNumber": 414,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311414"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-417-alexandra-choleva",
+    "name": "Εισαγγελέας Εφετών - Αλεξάνδρα Χολέβα",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "417",
+    "roomNumber": 417,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311417"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-417-eyaggelia-karanika",
+    "name": "Εισαγγελέας Εφετών - Ευαγγελία Καρανίκα",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "417",
+    "roomNumber": 417,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311417"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-417-ioanna-zografoy",
+    "name": "Εισαγγελέας Εφετών - Ιωάννα Ζωγράφου",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "417",
+    "roomNumber": 417,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311417"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-418-diekperaiosi-allilografias-protokollo-metagoges-allilografia-epidoseis",
+    "name": "Διεκπεραίωση αλληλογραφίας - Πρωτόκολλο - Μεταγωγές - Αλληλογραφία - Επιδόσεις",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "418",
+    "roomNumber": 418,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311418"
+    ],
+    "emails": [
+      "protokolo.eisageliaefetonthes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο",
+      "Πρωτόκολλο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-419-agoripta-karatzioy",
+    "name": "Εισαγγελέας Εφετών - Αγορίτσα Καράτζιου",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "419",
+    "roomNumber": 419,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311419"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-419-achna-karamoschogloy",
+    "name": "Εισαγγελέας Εφετών - Άννα Καραμόσχογλου",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "419",
+    "roomNumber": 419,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311419"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-419-magdalini-galataki",
+    "name": "Εισαγγελέας Εφετών - Μαγδαληνή Γαλάτακη",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "419",
+    "roomNumber": 419,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311419"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-420-proistameni-dieythynsis-tis-grammateias-tis-eisaggelias-efeton-erietta-kyriakidoy",
+    "name": "Προϊσταμένη Διεύθυνσης της Γραμματείας της Εισαγγελίας Εφετών (Εριέττα Κυριακίδου)",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "420",
+    "roomNumber": 420,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311420"
+    ],
+    "emails": [
+      "grammatia.eisageliaefetonthes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-421-dioikitiko-konstantia-tsakoymi-proistameni",
+    "name": "Διοικητικό (Κωνσταντία Τσακούμη - Προϊσταμένη)",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "421",
+    "roomNumber": 421,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311421"
+    ],
+    "emails": [
+      "grammatia.eisageliaefetonthes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-422-leonidas-nikolottoylos",
+    "name": "Διευθύνων την Εισαγγελία Εφετών - Λεωνίδας Νικολόπουλος",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "422",
+    "roomNumber": 422,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311422",
+      "2310531029¨"
+    ],
+    "emails": [
+      "grammatia.eisageliaefetonthes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-423-argyri-valoysi",
+    "name": "Αντεισαγγελέας Εφετών - Αργυρή Βαλούση",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "423",
+    "roomNumber": 423,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311423"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-423-nikolaos-delidimos",
+    "name": "Αντεισαγγελέας Εφετών - Νικόλαος Δεληδήμος",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "423",
+    "roomNumber": 423,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311423"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-423-panagiotis-panagiotopoylos",
+    "name": "Αντεισαγγελέας Εφετών - Παναγιώτης Παναγιωτόπουλος",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "423",
+    "roomNumber": 423,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311423"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-423-stefanos-zarkantzias",
+    "name": "Αντεισαγγελέας Εφετών - Στέφανος Ζαρκαντζιάς",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "423",
+    "roomNumber": 423,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311423"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-424-athina-konstantinidoy",
+    "name": "Αντεισαγγελέας Εφετών - Αθηνά Κωνσταντινίδου",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "424",
+    "roomNumber": 424,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311424"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-424-emmanoyela-ketsiatzi",
+    "name": "Αντεισαγγελέας Εφετών - Εμμανουέλα Κετσιατζή",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "424",
+    "roomNumber": 424,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311424"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-424-panagiota-gkika",
+    "name": "Αντεισαγγελέας Εφετών - Παναγιώτα Γκίκα",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "424",
+    "roomNumber": 424,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311424"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-424-filippos-papadopoylos",
+    "name": "Αντεισαγγελέας Εφετών - Φίλιππος Παπαδόπουλος",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "424",
+    "roomNumber": 424,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311424"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-424-christos-tolias",
+    "name": "Αντεισαγγελέας Εφετών - Χρήστος Τόλιας",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "424",
+    "roomNumber": 424,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311424"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-425-ioanna-katsi",
+    "name": "Αντεισαγγελέας Εφετών - Ιωάννα Κατσή",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "425",
+    "roomNumber": 425,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311425"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-425-kyriakoyla-chatzinota",
+    "name": "Αντεισαγγελέας Εφετών - Κυριακούλα Χατζηνώτα",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "425",
+    "roomNumber": 425,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311425"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-425-konstantina-melissari",
+    "name": "Αντεισαγγελέας Εφετών - Κωνσταντίνα Μελισσάρη",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "425",
+    "roomNumber": 425,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311425"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-425-paraskeyi-sakoyla",
+    "name": "Αντεισαγγελέας Εφετών - Παρασκευή Σάκουλα",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "425",
+    "roomNumber": 425,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311425"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-425-chrysanthi-lathira",
+    "name": "Αντεισαγγελέας Εφετών - Χρυσάνθη Λαθήρα",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "425",
+    "roomNumber": 425,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311425"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-426-trimeles-efeteio-v-vathmoy-anaplirotria-proistameni-andriana-stathi-prosdiorismos-kliteysi",
+    "name": "Τριμελές Εφετείο Β’ Βαθμού (Αναπληρώτρια Προϊσταμένη Ανδριάνα Στάθη) Προσδιορισμός - Κλήτευση",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "426",
+    "roomNumber": 426,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311426"
+    ],
+    "emails": [
+      "pentamelesprosd.eisageliaefetonthes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-427-grafeio-ypologoy-pagies-prokatavoles-kalliopi-giagkoy-christina-vilanoy",
+    "name": "Γραφείο Υπολόγου - Πάγιες προκαταβολές (Καλλιόπη Γιάγκου - Χριστίνα Βιλάνου)",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "427",
+    "roomNumber": 427,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311427"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-428-voyleymata-eyaggelia-mprazioti-anaplirotria-proistameni",
+    "name": "Βουλεύματα (Ευαγγελία Μπραζιώτη - Αναπληρώτρια Προϊσταμένη)",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "428",
+    "roomNumber": 428,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311428"
+    ],
+    "emails": [
+      "vouleumata.eisageliaefetonthes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-430-kliteysi-dikografion-trimeloys-efeteioy-kakoyrgimaton-diorismos-aytepaggelton-dikigoron-diermineon",
+    "name": "Κλήτευση δικογραφιών Τριμελούς Εφετείου Κακουργημάτων - Διορισμός αυτεπαγγέλτων δικηγόρων - Διερμηνέων",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "430",
+    "roomNumber": 430,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311430"
+    ],
+    "emails": [
+      "trimeleskakourgprosd.eisageliaefetonthes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-432-trimeles-efeteio-kakoyrgimaton-prosdiorismos-trimeloys-efeteioy-kakoyrgimaton-spyroyla-anastasioy-pap",
+    "name": "Τριμελές Εφετείο Κακουργημάτων: Προσδιορισμός Τριμελούς Εφετείου Κακουργημάτων (Σπυρούλα Αναστασίου Παπιώτη - Προϊσταμένη)",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "432",
+    "roomNumber": 432,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311432"
+    ],
+    "emails": [
+      "trimeleskakourgprosd.eisageliaefetonthes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-433-monomeles-efeteio-kakoyrgimaton-prosdiorismos-anaplirotis-proistamenos-dimosthenis-fotidis",
+    "name": "Μονομελές Εφετείο Κακουργημάτων: Προσδιορισμός (Αναπληρωτής Προϊστάμενος - Δημοσθένης Φωτίδης)",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "433",
+    "roomNumber": 433,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311433"
+    ],
+    "emails": [
+      "monomeleskakourgprosd.eisageliaefetonthes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-434-grafeio-exypiretisis-kliteysi-monomeloys-efeteioy-kakoyrgimaton",
+    "name": "Γραφείο Εξυπηρέτησης Κλήτευση Μονομελούς Εφετείου Κακουργημάτων",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "434",
+    "roomNumber": 434,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311434"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-435-diacheirisi-epichorigisis-promitheion-pragmatognomones",
+    "name": "Διαχείριση Επιχορήγησης Προμηθειών - Πραγματογνώμονες",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "435",
+    "roomNumber": 435,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311435"
+    ],
+    "emails": [
+      "logistirio.eisageliaefetonthes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-436-diacheirisi-dikografion-arthroy-43-59",
+    "name": "Διαχείριση δικογραφιών άρθρου 43 & 59",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "436",
+    "roomNumber": 436,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311436"
+    ],
+    "emails": [
+      "a.palaska@thess-courts.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-438-grafeio-pliroforikis-sok-partalas-christina-koyfokotsioy",
+    "name": "Γραφείο Πληροφορικής (Σωκ. Παρταλάς, Χριστίνα Κουφοκώτσιου)",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "438",
+    "roomNumber": 438,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311438"
+    ],
+    "emails": [
+      "pliroforikieet@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο",
+      "Πληροφορική"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-463-kliteysi-trimeloys-efeteioy-plimmelimaton",
+    "name": "Κλήτευση Τριμελούς Εφετείου Πλημμελημάτων",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "463",
+    "roomNumber": 463,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311463"
+    ],
+    "emails": [
+      "trimelesplimelprosd.eisageliaefetonthes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Ποινικό",
+      "Εφετείο",
+      "Πλημμελήματα"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-468-ektelesi-poinon-olon-ton-dikastirion-fygopoinoi-fygodikoi-klp-eleni-kotsovoloy-anaplirotria-proistame",
+    "name": "Εκτέλεση ποινών όλων των δικαστηρίων - Φυγόποινοι, Φυγόδικοι κλπ (Ελένη Κοτσοβόλου- Αναπληρώτρια Προϊσταμένη)",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "468",
+    "roomNumber": 468,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311468"
+    ],
+    "emails": [
+      "ektelesi.eisageliaefetonthes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εκτέλεση",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-469-tmima-ekdoseon-dikastikon-syndromon-dikastikis-synergasias-anaplirotria-proistameni-triantafyllia-sav",
+    "name": "Τμήμα Εκδόσεων - Δικαστικών Συνδρομών - Δικαστικής Συνεργασίας (Αναπληρώτρια Προϊσταμένη - Τριανταφυλλιά Σαββοπούλου)",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "469",
+    "roomNumber": 469,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311469"
+    ],
+    "emails": [
+      "ekdosis.eisageliaefetonthes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-470-trimeles-efeteio-plimmelimaton-prosdiorismos-tasoyla-vatamidoy-anaplirotria-proistameni",
+    "name": "Τριμελές Εφετείο Πλημμελημάτων - Προσδιορισμός (Τασούλα Βαταμίδου - Αναπληρώτρια Προϊσταμένη)",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "470",
+    "roomNumber": 470,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311470"
+    ],
+    "emails": [
+      "trimelesplimelprosd.eisageliaefetonthes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο",
+      "Πλημμελήματα"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-471-aikaterini-matsi",
+    "name": "Αντεισαγγελέας Εφετών - Αικατερίνη Μάτση",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "471",
+    "roomNumber": 471,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311471"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-471-gesvimani-chatziprasidoy",
+    "name": "Αντεισαγγελέας Εφετών - Γεσθημανή Χατζηπρασίδου",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "471",
+    "roomNumber": 471,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311471"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-471-maria-dimitriadoy",
+    "name": "Αντεισαγγελέας Εφετών - Μαρία Δημητριάδου",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "471",
+    "roomNumber": 471,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311471"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-471-stylianos-galiatsatos",
+    "name": "Αντεισαγγελέας Εφετών - Στυλιανός Γαλιατσάτος",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "471",
+    "roomNumber": 471,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311471"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-471-christos-karagiannis",
+    "name": "Αντεισαγγελέας Εφετών - Χρήστος Καραγιάννης",
+    "entityType": "Πρόσωπο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "471",
+    "roomNumber": 471,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311471"
+    ],
+    "emails": [],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "eisaggelia-efeton-orofos-4-grafeio-497-prosdiorismos-dikografion-m-o-d-m-o-e-kliteysi-m-od-m-o-e-enorkoi",
+    "name": "Προσδιορισμός δικογραφιών Μ.Ο.Δ. & Μ.Ο.Ε. - Κλήτευση Μ.Ο.Δ.- Μ.Ο.Ε.- Ένορκοι",
+    "entityType": "Γραφείο",
+    "organization": "Εισαγγελία Εφετών",
+    "roomRaw": "497",
+    "roomNumber": 497,
+    "roomSuffix": null,
+    "floor": 4,
+    "phones": [
+      "2313311497"
+    ],
+    "emails": [
+      "mod.moeeet@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Εισαγγελία",
+      "Ποινικό",
+      "Εφετείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "protodikeio-orofos-2-grafeio-217-petros-komisopoylos-eirini-chorianopoyloy",
+    "name": "Πέτρος Κομισόπουλος, Ειρήνη Χωριανοπούλου",
+    "entityType": "Πρόσωπο",
+    "organization": "Πρόεδροι Πρωτοδικών",
+    "roomRaw": "217",
+    "roomNumber": 217,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311217"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "protodikeio-orofos-2-grafeio-218-virginia-mpelloy-alexandros-vasilopoylos",
+    "name": "Βιργινία Μπέλλου, Αλέξανδρος Βασιλόπουλος",
+    "entityType": "Πρόσωπο",
+    "organization": "Πρόεδροι Πρωτοδικών",
+    "roomRaw": "218",
+    "roomNumber": 218,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311218"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "protodikeio-orofos-2-grafeio-223-alexandra-papadopoyloy-lemonia-toavidi-aikaterini-kartsioyni",
+    "name": "Αλεξάνδρα Παπαδοπούλου, Λεμονιά Τσαβίδη, Αικατερίνη Καρτσιούνη",
+    "entityType": "Πρόσωπο",
+    "organization": "Πρόεδροι Πρωτοδικών",
+    "roomRaw": "223",
+    "roomNumber": 223,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311223"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "protodikeio-orofos-2-grafeio-223a-maria-karapa-ergina-theofilidoy",
+    "name": "Μαρία Καραπά, Εργίνα Θεοφιλίδου",
+    "entityType": "Πρόσωπο",
+    "organization": "Πρόεδροι Πρωτοδικών",
+    "roomRaw": "223Α",
+    "roomNumber": 223,
+    "roomSuffix": "Α",
+    "floor": 2,
+    "phones": [
+      "2313311223"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "protodikeio-orofos-2-grafeio-224-eyaggelia-kapetanopoyloy-maria-tzeki-artemis-dafka",
+    "name": "Ευαγγελία Καπετανοπούλου, Μαρία Τζέκη, Άρτεμις Δάφκα",
+    "entityType": "Πρόσωπο",
+    "organization": "Πρόεδροι Πρωτοδικών",
+    "roomRaw": "224",
+    "roomNumber": 224,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311224"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "protodikeio-orofos-2-grafeio-226-triantafyllia-fagkri-da-argyro-mpaizani-semeli-orfanidoy",
+    "name": "Τριανταφυλλιά Φαγκρίδα, Αργυρώ Μπαϊζάνη, Σεμέλη Ορφανίδου",
+    "entityType": "Πρόσωπο",
+    "organization": "Πρόεδροι Πρωτοδικών",
+    "roomRaw": "226",
+    "roomNumber": 226,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311226"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "protodikeio-orofos-2-grafeio-228a-eleni-antonopoyloy-ioannis-pallas",
+    "name": "Ελένη Αντωνοπούλου, Ιωάννης Πάλλας",
+    "entityType": "Πρόσωπο",
+    "organization": "Πρόεδροι Πρωτοδικών",
+    "roomRaw": "228Α",
+    "roomNumber": 228,
+    "roomSuffix": "Α",
+    "floor": 2,
+    "phones": [
+      "2313311246"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "protodikeio-orofos-2-grafeio-230-ioannis-arvanitis-kassiani-mpoyrodimoy-maria-kotoyla",
+    "name": "Ιωάννης Αρβανίτης, Κασσιανή Μπουροδήμου, Μαρία Κωτούλα",
+    "entityType": "Πρόσωπο",
+    "organization": "Πρόεδροι Πρωτοδικών",
+    "roomRaw": "230",
+    "roomNumber": 230,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311230"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "protodikeio-orofos-2-grafeio-231-dimitrios-tamparis-athanasios-mpasmpaleris-georgios-lazaridis",
+    "name": "Δημήτριος Ταμπάρης, Αθανάσιος Μπασμπαλέρης, Γεώργιος Λαζαρίδης",
+    "entityType": "Πρόσωπο",
+    "organization": "Πρόεδροι Πρωτοδικών",
+    "roomRaw": "231",
+    "roomNumber": 231,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311231"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "protodikeio-orofos-2-grafeio-232-aikaterini-karaindroy",
+    "name": "Αίθουσα Δικαστών",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": "232",
+    "roomNumber": 232,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311232"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "protodikeio-orofos-2-grafeio-232-aikaterini-karaindroy",
+    "name": "Αικατερίνη Καραΐνδρου",
+    "entityType": "Πρόσωπο",
+    "organization": "Πρόεδροι Πρωτοδικών",
+    "roomRaw": "232",
+    "roomNumber": 232,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311232"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "protodikeio-orofos-2-grafeio-242-gavriela-karamitsoy-paraskeyi-stefanidoy",
+    "name": "Γαβριέλα Καραμήτσου, Παρασκευή Στεφανίδου",
+    "entityType": "Πρόσωπο",
+    "organization": "Πρόεδροι Πρωτοδικών",
+    "roomRaw": "242",
+    "roomNumber": 242,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311242"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "protodikeio-orofos-2-grafeio-243-nikolaos-payloy-athanasios-terzoydis",
+    "name": "Νικόλαος Παύλου, Αθανάσιος Τερζούδης",
+    "entityType": "Πρόσωπο",
+    "organization": "Πρόεδροι Πρωτοδικών",
+    "roomRaw": "243",
+    "roomNumber": 243,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311243"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "protodikeio-orofos-2-grafeio-244-panagiota-syriopoyloy-panagiota-kolari-despoina-skarlatoy",
+    "name": "Παναγιώτα Συριοπούλου, Παναγιώτα Κολάρη, Δέσποινα Σκαρλάτου",
+    "entityType": "Πρόσωπο",
+    "organization": "Πρόεδροι Πρωτοδικών",
+    "roomRaw": "244",
+    "roomNumber": 244,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311244"
+    ],
+    "emails": [],
+    "tags": [
+      "Πρωτοδικείο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "protodikeio-orofos-2-grafeio-267-konstantinos-charisis-georgios-lazaridis-dimitrios-arvanitidis-eisigites-ptocheyseon",
+    "name": "Κωνσταντίνος Χαρίσης, Γεώργιος Λαζαρίδης, Δημήτριος Αρβανιτίδης - Εισηγητές Πτωχεύσεων",
+    "entityType": "Πρόσωπο",
+    "organization": "Πρόεδροι Πρωτοδικών",
+    "roomRaw": "267, 64, Ισόγειο",
+    "roomNumber": 267,
+    "roomSuffix": null,
+    "floor": 2,
+    "phones": [
+      "2313311267",
+      "2313311103"
+    ],
+    "emails": [
+      "eisptwx.protodikeiothes@n3.syzefxis.gov.gr"
+    ],
+    "tags": [
+      "Πρωτοδικείο",
+      "Πτωχεύσεις"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "parking-dikastikou-megarou",
+    "name": "Πάρκινγκ Δικαστικού Μεγάρου",
+    "entityType": "Υπηρεσία",
+    "organization": "Δικαστικό Μέγαρο",
+    "roomRaw": null,
+    "roomNumber": null,
+    "roomSuffix": null,
+    "floor": null,
+    "phones": [
+      "2313311350"
+    ],
+    "emails": [],
+    "tags": [
+      "Υπηρεσίες",
+      "Δικαστικό Μέγαρο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "taxydromeio-dikastikou-megarou",
+    "name": "Ταχυδρομείο Δικαστικού Μεγάρου",
+    "entityType": "Υπηρεσία",
+    "organization": "Δικαστικό Μέγαρο",
+    "roomRaw": null,
+    "roomNumber": null,
+    "roomSuffix": null,
+    "floor": null,
+    "phones": [
+      "2313311460"
+    ],
+    "emails": [],
+    "tags": [
+      "Υπηρεσίες",
+      "Δικαστικό Μέγαρο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "techniki-ypiresia-dikastikou-megarou",
+    "name": "Τεχνική Υπηρεσία Δικαστικού Μεγάρου",
+    "entityType": "Υπηρεσία",
+    "organization": "Δικαστικό Μέγαρο",
+    "roomRaw": null,
+    "roomNumber": null,
+    "roomSuffix": null,
+    "floor": null,
+    "phones": [
+      "2313311303"
+    ],
+    "emails": [],
+    "tags": [
+      "Υπηρεσίες",
+      "Δικαστικό Μέγαρο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "astynomiki-froura",
+    "name": "Αστυνομική Φρουρά",
+    "entityType": "Υπηρεσία",
+    "organization": "Δικαστικό Μέγαρο",
+    "roomRaw": null,
+    "roomNumber": null,
+    "roomSuffix": null,
+    "floor": null,
+    "phones": [
+      "2310522066"
+    ],
+    "emails": [],
+    "tags": [
+      "Ασφάλεια",
+      "Δικαστικό Μέγαρο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "elta-dikastikou-megarou",
+    "name": "ΕΛΤΑ",
+    "entityType": "Υπηρεσία",
+    "organization": "Δικαστικό Μέγαρο",
+    "roomRaw": null,
+    "roomNumber": null,
+    "roomSuffix": null,
+    "floor": null,
+    "phones": [
+      "2310552959"
+    ],
+    "emails": [],
+    "tags": [
+      "Ταχυδρομείο",
+      "Δικαστικό Μέγαρο"
+    ],
+    "lastVerified": "2026-03-02"
+  },
+  {
+    "id": "perifereiaki-edra-protodikeiou-thessalonikis-lagkadas",
+    "name": "Περιφερειακή Έδρα Πρωτοδικείου Θεσσαλονίκης (Λαγκαδάς) - Προϊστάμενος",
+    "entityType": "Γραφείο",
+    "organization": "Πρωτοδικείο",
+    "roomRaw": null,
+    "roomNumber": null,
+    "roomSuffix": null,
+    "floor": null,
+    "phones": [
+      "2312000570",
+      "2312000571",
+      "2312000572",
+      "2312000573",
+      "2312000574",
+      "2312000575",
+      "2312000576"
+    ],
+    "emails": [
+      "eirinodikeiolag@yahoo.gr"
+    ],
+    "tags": [
+      "Πρωτοδικείο",
+      "Περιφερειακές Έδρες",
+      "Λαγκαδάς"
+    ],
+    "lastVerified": "2026-03-02"
+  }
+]
