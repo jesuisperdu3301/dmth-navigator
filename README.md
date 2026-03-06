@@ -54,22 +54,6 @@ Hosting
 
 The project intentionally avoids frameworks to keep the application simple, fast, and maintainable.
 
-📂 Project Structure
-dmth-navigator
-│
-├─ index.html
-├─ anafora.html
-├─ script.js
-├─ style.css
-│
-├─ data
-│   └─ entries.json
-│
-├─ assets
-│   └─ icons / images
-│
-└─ README.md
-
 🎯 Project Purpose
 
 Courthouses often contain many services and offices, which can be difficult to locate for both professionals and citizens.
