@@ -1,5 +1,10 @@
 # ΔΜΘ Navigator
 
+![License](https://img.shields.io/github/license/jesuisperdu3301/dmth-navigator)
+![Last Commit](https://img.shields.io/github/last-commit/jesuisperdu3301/dmth-navigator)
+![Repo Size](https://img.shields.io/github/repo-size/jesuisperdu3301/dmth-navigator)
+![GitHub Pages](https://img.shields.io/badge/deploy-GitHub%20Pages-blue)
+
 A digital directory and navigation tool for the **Thessaloniki Courthouse (Δικαστικό Μέγαρο Θεσσαλονίκης)**.
 
 The project allows lawyers, citizens and visitors to quickly locate court services, offices and authorities operating inside the courthouse.
