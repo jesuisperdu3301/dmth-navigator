@@ -81,7 +81,7 @@ It serves as an example of how small-scale technology solutions can modernize le
 👨‍⚖️ Author
 
 Nikolaos Lazidis
-Lawyer, MSc
+(Lawyer, MSc)
 
 📜 License
 
